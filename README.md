@@ -69,15 +69,6 @@ Colección de scripts CLI para automatización. En expansión continua.
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=grilletee&show_icons=true&hide_border=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grilletee&layout=compact&hide_border=true&theme=default" height="150"/>
-</p>
-
----
-
 ## Currently
 
 - Finalizando DAM en **Instituto Nebrija FP** (junio 2026)
