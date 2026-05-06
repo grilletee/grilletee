@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://grillete.dev">Portfolio</a> ·
   <a href="https://linkedin.com/in/guillermo-sanchez-gutierrez">LinkedIn</a> ·
-  <a href="mailto:contacto@grillete.dev">Email</a>
+  <a href="mailto:grillete07@gmail.com">Email</a>
 </p>
 
 ---
