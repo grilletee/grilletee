@@ -14,7 +14,7 @@
 
 ## About me
 
-Desarrollador Full Stack finalizando el Grado Superior en DAM, con proyectos reales desplegados en producción. Mi foco está en el backend y la IA aplicada — construyo APIs REST, agentes autónomos y sistemas IoT que resuelven problemas concretos.
+Desarrollador Full Stack finalizando el Grado Superior en DAM, con proyectos reales desplegados en producción. Mi foco está en el backend y la IA aplicada, construyo APIs REST, agentes autónomos y sistemas IoT que resuelven problemas concretos.
 
 Actualmente en prácticas desarrollando con **Odoo y Python**, y próximamente iniciando un **Máster en IA y Big Data**.
 
